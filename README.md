@@ -4,7 +4,7 @@
 
 🌟 I had worked in tech for 10 years, and now i dedicate my life to online education, content generation and my Masters 💚.
 
-📊 My favorites projects of my career were in Education, Health, Stats and PMP.
+📊 My favorites projects of my career were in Education, Health, Stats, Customer Service and PMP.
 
 👩🏻‍💻 As developer i had worked with (and more):
 
