@@ -1,4 +1,4 @@
-### Hi! I'm Ana Belisa Martinez, Backend Developer, Project Manager and Master Coach at Platzi Master 👋
+### Hi! I'm Ana Belisa Martinez, Backend Developer, Project Manager and Program Manager at Platzi Master 👋
 
 💪🏼 Training to the best developers in the tech industry ✨
 
