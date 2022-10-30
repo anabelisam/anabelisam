@@ -22,8 +22,8 @@
 
 ## I can teach you about...
 
-| 🎖 Leadership | 🤵🏻‍♀️ Management | 📊 Project Planning | 👩🏻‍💻 Web Development | 🎤 Public Speaking | 🤝 Community |
-| ------- | -------- | ------- | -------- | ------- | -------- |
+| 🎖 Leadership | 🤵🏻‍♀️ Management | 📊 Project Planning | 👩🏻‍💻 Web Development | 🤝 Community |
+| ------- | -------- | ------- | -------- | ------- |
 
  **➕ I had worked in projects about Education, Health, Government, Stats, Customer Services and PMP.**
  
@@ -69,5 +69,5 @@ class About extends Me {
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabelisam)
 
  ## Visit my personal web page [anabelisa.co](https://anabelisa.co/)
- <a href="https://anabelisa.co/" target="blank_"> <img src="anabelisam-logo.png" alt="logo" width="300"/> </a>
+ <a href="https://anabelisa.co/" target="blank_"> <img src="anabelisam-logo.png" alt="logo" width="200"/> </a>
 </div>
