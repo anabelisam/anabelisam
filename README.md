@@ -4,7 +4,7 @@
 
 ## About me
 
-💚 **Actual** Faculty Manager for Computer and Technology at Platzi.
+💚 **Actual** Faculty Manager for Computing and Technology at Platzi.
 
  ✍🏼 Writer in my personal blog [anabelisa.co](https://anabelisa.co/).
  
