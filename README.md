@@ -4,7 +4,7 @@
 
 ## About me
 
-💚 **Actual** Faculty Manager for Computing and Technology at Platzi.
+💚 **Actual** Head of Student Success at Platzi.
 
  ✍🏼 Writer in my personal blog [anabelisa.co](https://anabelisa.co/).
  
@@ -12,7 +12,7 @@
 
 🌟 Web Developer since 2010.
 
-👩🏻‍🏫 Platzi Teacher, find my courses about **PHP** and **Logical Thinking**.
+👩🏻‍🏫 Platzi Teacher, find my courses about **AI**, **PHP** and **Logical Thinking**.
 
 </div>
 
