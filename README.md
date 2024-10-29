@@ -1,5 +1,3 @@
-![header](https://github.com/anabelisam/anabelisam/blob/main/header.png)
-
 <div align="center">
 
 ## About me
